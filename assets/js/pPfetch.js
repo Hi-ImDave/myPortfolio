@@ -1,4 +1,5 @@
-//The user will enter a date.
+// Gets pic for personal-project.html
+// The user will enter a date.
 window.addEventListener('load', getFetch)
 
 function getFetch(){
