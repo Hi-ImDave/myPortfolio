@@ -1,5 +1,5 @@
 # My Portfolio
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+My personal website that highlights recent projects I've completed as well as personal projects I have completed/am currently working on.
 
 **Full Website:** http://davidmott.netlify.app/
 
